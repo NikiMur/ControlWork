@@ -1,4 +1,4 @@
-﻿Console.WriteLine("введи симовлы символы");
+﻿Console.WriteLine("введи текс в котором хотите проверить колличество символов ");
 string[] array = new string[5]; 
 for (int i = 0; i < array.Length; i++)
 {
